@@ -180,19 +180,7 @@
 
 ---
 
-### Part 5: Configure S2
 
-For the second switch (S2), repeat the same steps as S1 with these differences:
-
-1. **Hostname:** Use `S2` instead of `S1`:
-   ```bash
-   hostname S2
-   ```
-
-2. **Message of the Day:** Use this text instead:
-   ```bash
-   banner motd "Authorized access only. Unauthorized access is prohibited and violators will be prosecuted to the full extent of the law."
-   ```
 
 ---
 
