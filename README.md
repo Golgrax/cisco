@@ -1,7 +1,5 @@
 # cisco
 
-Great! With your answers available, I can guide you step by step from the beginning, including navigation in Packet Tracer and how to execute each command.
-
 ---
 
 ### Getting Started in Cisco Packet Tracer
@@ -211,4 +209,3 @@ For the second switch (S2), repeat the same steps as S1 with these differences:
 - `banner motd "<message>"`: Set a message of the day.
 - `copy running-config startup-config`: Save the configuration.
 
-Let me know if you need further guidance!
